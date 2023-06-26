@@ -1,7 +1,7 @@
 # Laravel-3-user-role
 
 create database
-install the package via composer: "composer require spatie/laravel-permission". 
+install the package via composer: "composer require spatie/laravel-permission". <br>
 run the command : "php artisan migrate"
 run the command : "php artisan migrate --seed"
 run the command : "php artisan db:seed"
